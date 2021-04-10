@@ -1,6 +1,8 @@
 layout: page
 title: "Braille Art Generator Privacy Policy"
-permalink: /braille-art-privacy-policy/
+permalink: /privacy-policy/braille-art/
+
+Hello
 
 <!doctype html>
 <html>

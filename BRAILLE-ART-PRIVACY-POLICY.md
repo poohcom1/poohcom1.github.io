@@ -1,6 +1,8 @@
+---
 layout: page
-title: "Braille Art Generator Privacy Policy"
+title: Braille Art Generator Privacy Policy
 permalink: /privacy-policy/braille-art/
+---
 
 Hello
 
